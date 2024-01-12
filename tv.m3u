@@ -117,3 +117,128 @@ http://101.66.194.128:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=
 http://101.66.194.128:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,杭州影视
 http://101.66.194.128:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1综合
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV1
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2财经
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV2
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3综艺
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV3
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4国际
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV4
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5体育
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV5
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+体育赛事
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV5p
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6电影
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV6
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7国防军事
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV7
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8电视剧
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV8
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9记录
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV9
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10科教
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV10
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11戏曲
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV11
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12社会与法
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV12
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13新闻
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV13
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14少儿
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV14
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15音乐
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV15
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16奥林匹克
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV16
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16奥林匹克4K
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV164K
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17农业农村
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV17
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV4k.png",CCTV4KHD
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV4KHD
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CCTV8k.png",CCTV8K
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CCTV8K
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png",CCTV怀旧剧场
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=hjjc
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png",CCTV高尔夫网球
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=gef
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/世界地理.png",CCTV世界地理
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=sjdl
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png",CCTV兵器科技
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=bqkj
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/卫生健康.png",CCTV卫生健康
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=wsjk
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png",CCTV风云剧场
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=fyjc
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/央视台球.png",CCTV央视台球
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=ystq
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png",CCTV央视文化精品
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=whjp
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png",CCTV女性时尚
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=nxss
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/电视指南.png",CCTV电视指南
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=dszn
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png",CCTV风云音乐
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=fyyy
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/风云足球.png",CCTV风云足球
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=fyzq
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png",CCTV第一剧场
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=dyjc
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CGTN.png",CGTN英语
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CGTN
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png",CGTN纪录
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CGTNd
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CGTN西班牙语.png",CGTN西班牙语
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CGTNx
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png",CGTN法语
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CGTNf
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CGTN阿拉伯语.png",CGTN阿拉伯语
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CGTNa
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png",CGTN俄语
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=CGTNe
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=bjws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=dfws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=cqws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=hljws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=lnws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=hbws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=sdws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=ahws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=hnws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=hunanws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=jxws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=jsws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=zjws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=dnws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=gdws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=szws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=gxws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=gzws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=scws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=haws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=tjws
+#EXTINF:-1 group-title="🎗 央视频V4" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png",新疆卫视
+http://www.51romzj.shop:666/diyroms/yspv4.php?id=xjws
